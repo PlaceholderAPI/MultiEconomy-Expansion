@@ -87,10 +87,5 @@
       <scope>system</scope>
       <systemPath>${project.basedir}/libs/MultiEconomy-1.0.6-RELEASE.jar</systemPath>
     </dependency>
-    <dependency>
-      <groupId>org.jetbrains</groupId>
-      <artifactId>annotations</artifactId>
-      <version>19.0.0</version>
-    </dependency>
   </dependencies>
 </project>
